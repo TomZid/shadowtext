@@ -1,8 +1,8 @@
 name: shadowtext
-description: A Flutter package project enable you create a shadow text widget.
+description: A Flutter package project enable you create a shadow text widget. Writted with pure dart supported both iOS and Android.
 version: 0.0.1
 author: tom.zid<zhb111lizhb111xi@gmail.com>
-homepage:
+homepage: https://github.com/TomZid/shadowtext
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
